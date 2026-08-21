@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Lyric Aligner
+tools/lyric-aligner/__pycache__/
+tools/lyric-aligner/whisper-debug*.txt
+
+# Generated output
+output/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
