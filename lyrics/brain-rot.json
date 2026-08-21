@@ -1,0 +1,343 @@
+{
+  "id": "brain-rot",
+  "title": "BRAIN ROT",
+  "source": {
+    "platform": "Suno",
+    "url": "https://suno.com/song/ccc863d5-2055-4f84-9600-e4add29dc1dc"
+  },
+  "language": [
+    "en",
+    "vi"
+  ],
+  "languageMode": "bilingual",
+  "version": "original",
+  "duration": null,
+  "timingStatus": "untimed",
+  "notes": "Lyrics preserved as provided. Timing can be added later without changing the lyric structure.",
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "Yeah, swipe up, swipe down, double tap...nonstop show",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-02",
+          "text": "…",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v1-01",
+          "text": "3 AM on the clock, tay vẫn chưa rời phone",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-02",
+          "text": "Lướt qua nghìn cái video, feeling so alone",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-03",
+          "text": "Dopamine rush, yeah I chase that high",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-04",
+          "text": "Trôi theo feed dài, Lướt tiếp hay dừng lại?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-05",
+          "text": "Flexing on the feed, fake life, real pain,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-06",
+          "text": "Chạy theo trend mới, got nothing to gain.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-07",
+          "text": "Cuộc sống ngoài kia, I just leave it all behind.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-08",
+          "text": "Too much light, not enough sight",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-09",
+          "text": "Scroll, scroll, I'm running out of time (mà chẳng biết mình là ai)",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus-1",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pc1-01",
+          "text": "Too much noise, overload in my brain, stuck inside the game.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-02",
+          "text": "Nhìn vào màn hình, going insane.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-03",
+          "text": "Status cứ update triền miên, tâm trí trôi vào lãng quên,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-04",
+          "text": "Những dải feed không hồi kết",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-1",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c1-01",
+          "text": "Brain rot, brain rot, dancing in the loop!",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-02",
+          "text": "The algorithm knows me better though",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-03",
+          "text": "Rot-rot-rot, in my brain",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-04",
+          "text": "Scroll-scroll-scroll, again",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-05",
+          "text": "La-la-la, dopamine",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-06",
+          "text": "Na-na-na, serotonin",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-07",
+          "text": "Give me that dopamine, loading... loading...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-08",
+          "text": "Chìm vào thế giới ảo, losing all control!",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v2-01",
+          "text": "Monday motivation, Tuesday existential",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-02",
+          "text": "Wednesday I’m convinced that my life needs a reset button",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-03",
+          "text": "Comment dạo, flex phong cách sống,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-04",
+          "text": "Ảo giác thành công, bên trong thì trống rỗng.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-05",
+          "text": "Trending dance, mindless sound.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-06",
+          "text": "3, 2, 1... .",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-07",
+          "text": "1, 2, 3....",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "breakdown",
+      "type": "breakdown",
+      "lines": [
+        {
+          "id": "b-01",
+          "text": "No thoughts.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "b-02",
+          "text": "Head empty.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "b-03",
+          "text": "Just vibes.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "b-04",
+          "text": "Scroll.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "b-05",
+          "text": "Scroll.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "b-06",
+          "text": "Scroll.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c2-01",
+          "text": "Brain rot, brain rot, dancing in the loop!",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-02",
+          "text": "The algorithm knows me better though",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-03",
+          "text": "Rot-rot-rot, in my brain",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-04",
+          "text": "Scroll-scroll-scroll, again",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-05",
+          "text": "La-la-la, dopamine",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-06",
+          "text": "Na-na-na, serotonin",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-07",
+          "text": "Give me that dopamine, loading... loading...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-08",
+          "text": "Chìm vào thế giới ảo, losing all control!",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "it’s a digital trap,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-02",
+          "text": "Đầu óc đóng băng, yeah I fell in the gap.",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}
