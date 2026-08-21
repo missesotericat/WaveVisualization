@@ -1,0 +1,358 @@
+{
+  "id": "zombie-society",
+  "title": "Zombie Society",
+  "language": [
+    "en",
+    "vi"
+  ],
+  "languageMode": "bilingual",
+  "version": "original",
+  "duration": null,
+  "timingStatus": "untimed",
+  "notes": "Original bilingual lyrics as provided. Performance/style directions in section headings are preserved as section metadata. Timing fields are prepared for later audio synchronization.",
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "style": null,
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "“Wake up... or just keep scrolling?”",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-02",
+          "text": "Welcome to the Psychedelic Graveyard.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-03",
+          "text": "1, 2, 3... walk with me.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "style": "Melodic Trap Flow",
+      "lines": [
+        {
+          "id": "v1-01",
+          "text": "Walk down the boulevard, no real smile, just an emoji face.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-02",
+          "text": "Bước đi vô hồn, lost in a digital space.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-03",
+          "text": "Looking so dead inside",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-04",
+          "text": "Tìm kiếm validation, nowhere left to hide.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-05",
+          "text": "Filtered faces, borrowed smiles all night",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-06",
+          "text": "Zombie society, we’re all hypnotized",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-07",
+          "text": "Hypnotized",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-08",
+          "text": "hypnotized",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus",
+      "type": "pre-chorus",
+      "style": "Neo-Psychedelia / Dreamy Build-up",
+      "lines": [
+        {
+          "id": "pc-01",
+          "text": "Heartbeat syncing to the digital chime",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc-02",
+          "text": "The lights so pretty we forgot to breathe",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc-03",
+          "text": "Feed me color, feed me something real",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc-04",
+          "text": "Can we wake up? Hay tiếp tục mê man?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc-05",
+          "text": "Lạc trong ảo giác giữa thực tại bẽ bàng...",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-1",
+      "type": "chorus",
+      "style": "High-Energy Nu-Disco × Psychedelic Funk",
+      "lines": [
+        {
+          "id": "c1-01",
+          "text": "We are the zombies under neon lights,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-02",
+          "text": "Nhảy múa quay cuồng qua từng đêm dài!",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-03",
+          "text": "Zombie, zombie —",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-04",
+          "text": "Hypnotic rhythm, dancing in the groove,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-05",
+          "text": "Khóa chặt tâm hồn, chẳng còn muốn move",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-06",
+          "text": "Shiny plastic souls, lost in the machine,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-07",
+          "text": "Thực tại phai mờ, đẹp như một cuốn phim.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-08",
+          "text": "Ooh, let the funky bass set us free",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "style": "Dynamic Switching / Trap-Funk Rap",
+      "lines": [
+        {
+          "id": "v2-01",
+          "text": "Everybody pretty, pretty and hollow",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-02",
+          "text": "Endless hypnotic rhythm, tiêm vào từng tế bào,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-03",
+          "text": "Ảo giác lấp lánh, đưa ta lên tận trời cao.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-04",
+          "text": "Swipe up, level up, nobody can feel,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-05",
+          "text": "Hàng triệu avatar, but what is really real?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-06",
+          "text": "New phone, new shoes, new identity",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-07",
+          "text": "Fake life, fake love, looking so empty",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-08",
+          "text": "Vung vẩy vô định like a digital zombie!",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "style": "Dreamy Half-Time Synth-Pop",
+      "lines": [
+        {
+          "id": "br-01",
+          "text": "Posting “living my best life”",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-02",
+          "text": "Touch my skin...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-03",
+          "text": "Thấy nhịp tim rung lên từng hồi...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-04",
+          "text": "Hơi thở nghẹn lại giữa ảo giác dần trôi,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-05",
+          "text": "Chạm vào hư vô, searching for a lost soul...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-06",
+          "text": "We follow the glow",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-07",
+          "text": "But we don't even know",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "type": "chorus",
+      "style": "Full Psychedelic Disco Climax",
+      "lines": [
+        {
+          "id": "c2-01",
+          "text": "We are the zombies under neon lights,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-02",
+          "text": "Nhảy múa quay cuồng qua từng đêm dài!",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-03",
+          "text": "Zombie, zombie — walking in a line",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-04",
+          "text": "Hypnotic rhythm, dancing in the groove,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-05",
+          "text": "Khóa chặt tâm hồn, chẳng còn muốn move",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-06",
+          "text": "Shiny plastic souls, lost in the machine,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-07",
+          "text": "Thực tại phai mờ, đẹp như một cuốn phim.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-08",
+          "text": "Ooh, let the funky bass set us free",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "Zombie society, Dancing in endless hypnotic rhythm",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}
