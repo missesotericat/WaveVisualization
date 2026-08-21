@@ -1,0 +1,291 @@
+{
+  "id": "cot-cach-5",
+  "title": "Cốt Cách 5.0",
+  "language": [
+    "en",
+    "vi"
+  ],
+  "languageMode": "bilingual",
+  "version": "original",
+  "duration": null,
+  "timingStatus": "untimed",
+  "notes": "Original bilingual lyrics as provided. Timing fields are prepared for later audio synchronization.",
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "Silk and steel.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-02",
+          "text": "Tradition in high heels.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-03",
+          "text": "Low key but high fidelity",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-04",
+          "text": "Chẳng để hào nhoáng làm mình lung lay",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-05",
+          "text": "Không cần phải loud to shine",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-06",
+          "text": "Không cần định nghĩa bởi ai",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-07",
+          "text": "Giao thoa giữa truyền thống và hiện đại",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v1-01",
+          "text": "Cốt cách is the armor",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-02",
+          "text": "Grace is the power",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-03",
+          "text": "Smart heart, sharp mind",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-04",
+          "text": "Global vision, local pride",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-05",
+          "text": "Side by side",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus-1",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pc1-01",
+          "text": "Cốt cách never fades",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-02",
+          "text": "Power never trades",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-03",
+          "text": "Future feminine wave",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-04",
+          "text": "We don’t behave",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v2-01",
+          "text": "No cap",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-02",
+          "text": "Built different, that’s fact",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-03",
+          "text": "From culture to contract",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-04",
+          "text": "Đầy bản lĩnh, vững chắc",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-05",
+          "text": "Em kiến tạo, đầy màu sắc",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-06",
+          "text": "Em không chạy theo benchmark, và xu hướng nhất thời",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-07",
+          "text": "Cốt cách không phải thứ để trưng bày",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "br-01",
+          "text": "Not loud",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-02",
+          "text": "Not fragile",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-03",
+          "text": "Not waiting",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-04",
+          "text": "Tự tin sải bước, nhìn về phía trước.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-05",
+          "text": "“Em không cần phải giống ai.”",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-06",
+          "text": "Hiện đại & tự tại",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-3",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v3-01",
+          "text": "Her era, her code",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-02",
+          "text": "Breaking the old mode",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-03",
+          "text": "5.0 bold",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-04",
+          "text": "Heart of gold",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "Cốt cách never old",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-02",
+          "text": "Future controlled",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-03",
+          "text": "Watch her unfold",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-04",
+          "text": "A soul untold",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-05",
+          "text": "Timeless.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-06",
+          "text": "Luminous.",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}

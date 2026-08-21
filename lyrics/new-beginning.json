@@ -1,0 +1,385 @@
+{
+  "id": "new-beginning",
+  "title": "New Beginning",
+  "source": {
+    "platform": "Suno",
+    "url": "https://suno.com/song/32d6a522-a809-4b4e-8ff8-07a06c85c931"
+  },
+  "language": [
+    "vi",
+    "en"
+  ],
+  "languageMode": "bilingual",
+  "version": "original",
+  "duration": null,
+  "timingStatus": "untimed",
+  "notes": "Original bilingual lyrics as provided. Timing fields are prepared for later audio synchronization.",
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "Reset the clock...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-02",
+          "text": "New page, new timeline.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v1-01",
+          "text": "Chìm đắm trong hoài nghi, ta đi tìm lại chính mình từ quá khứ",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-02",
+          "text": "Loay hoay tìm một lối thoát khỏi những định hình vô căn cứ",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-03",
+          "text": "Tự hỏi bản thân: Is this the peak or just a plateau?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-04",
+          "text": "Or am I running out of soul?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-05",
+          "text": "Ảo ảnh “chưa gọi tên”, ký ức phù hoa bám đầy ngổn ngang",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-06",
+          "text": "Quá khứ vinh quang faded, để rồi rơi vào hư vô bạt ngàn.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus-1",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pc1-01",
+          "text": "Từng vết xước trong tim, ta từng nghĩ nó overrated",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-02",
+          "text": "Từng vòng xoáy trong tâm, đã khiến bản ngã này suffocated.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-1",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c1-01",
+          "text": "Dẫu thực tại này có hoang tàn, ta vẫn có thể đừng lên đầy huy hoàng",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-02",
+          "text": "I’m shedding skin, cởi bỏ lớp vỏ bọc đầy gai góc",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-03",
+          "text": "No more melancholia, không còn những đêm dài bật khóc",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-04",
+          "text": "Chasing the solitude, tìm lại vùng trời bình yên",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-05",
+          "text": "Bước qua ranh giới, rũ bỏ hết mọi muộn phiền.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-06",
+          "text": "Catch the vibe, feel the light, we rewrite the code",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-07",
+          "text": "New Beginning mở ra, new energy on the road.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c2-01",
+          "text": "New Beginning, ta tự vẽ một chân trời mới",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-02",
+          "text": "Out of the blue, static views, không còn gì phải nghĩ ngợi",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-03",
+          "text": "Bước qua lăng kính, shattering the glass ceiling",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-04",
+          "text": "Feel the adrenaline, a cosmic type of healing.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-05",
+          "text": "No lookin' back, we are right on track. (Post-chorus tag)",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-06",
+          "text": "Yeah, we start anew.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-07",
+          "text": "(all for you)",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v2-01",
+          "text": "Có những người chỉ đi ngang đời",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-02",
+          "text": "Nhưng để lại cả một khoảng trời",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-03",
+          "text": "Có những lần tưởng mình đánh mất",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-04",
+          "text": "Lại tìm thấy mình ở nơi chân thật nhất.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-05",
+          "text": "Không có gì là viển vông? That’s a sophisticated take",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-06",
+          "text": "Giữa cõi xa lạ hỗn mang, đôi khi gạt đi lý trí",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-07",
+          "text": "Gói ghém hoài nghi, đôi khi hãy để naivety dẫn đường",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-08",
+          "text": "Unapologetic, chấp nhận mỗi vết thương, vẽ say mê và đầy beautiful mess. Just small steps to get across.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "br-01",
+          "text": "Time is an illusion, but this feeling is real",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-02",
+          "text": "One day",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-03",
+          "text": "The future won't feel so far from reach",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-04",
+          "text": "One day",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-05",
+          "text": "Look at the stars, they’re aligning for us",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-06",
+          "text": "One day",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-07",
+          "text": "Fade out the dark, let the light in!",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-08",
+          "text": "One day",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-09",
+          "text": "If the sky falls apart, We'll build a new one again",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-3",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c3-01",
+          "text": "New Beginning, ta tự vẽ một chân trời mới",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c3-02",
+          "text": "Out of the blue, static views, không còn gì phải nghĩ ngợi",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c3-03",
+          "text": "Bước qua lăng kính, shattering the glass ceiling",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c3-04",
+          "text": "Feel the adrenaline, a cosmic type of healing.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c3-05",
+          "text": "No lookin' back, we are right on track. (Post-chorus tag)",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c3-06",
+          "text": "Yeah, we start anew.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c3-07",
+          "text": "(all for you)",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "New dawn... new skin...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-02",
+          "text": "(Distant female harmonies drift further away.)",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-03",
+          "text": "It's a beautiful start...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-04",
+          "text": "(A light switch click, or the soft sound of a car door closing, gently ends the song.)",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}
