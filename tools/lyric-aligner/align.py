@@ -11,11 +11,19 @@ import subprocess
 from faster_whisper import WhisperModel
 
 try:
-	from exporter import write_alignment
-	from matcher import align_lyrics, reconstruct_missing_lines
+    from exporter import write_alignment
+    from matcher import (
+        TranscriptWord,
+        align_lyrics,
+        reconstruct_missing_lines,
+    )
 except ImportError:
-	from .exporter import write_alignment
-	from .matcher import TranscriptWord, align_lyrics
+    from .exporter import write_alignment
+    from .matcher import (
+        TranscriptWord,
+        align_lyrics,
+        reconstruct_missing_lines,
+    )
 
 
 def audio_duration(path: Path) -> float:
