@@ -1,0 +1,393 @@
+{
+  "id": "lo-ca-doi-nay-khong-ruc-ro",
+  "title": "Lỡ Cả Đời Này Không Rực Rỡ",
+  "language": [
+    "vi",
+    "en"
+  ],
+  "languageMode": "bilingual",
+  "version": "original",
+  "duration": null,
+  "timingStatus": "untimed",
+  "notes": "Original bilingual lyrics as provided. Timing fields are prepared for later audio synchronization.",
+  "sections": [
+    {
+      "id": "intro",
+      "type": "spoken-word",
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "Người ta hay bảo... sống là phải tỏa sáng. Phải để lại dấu ấn gì đó trên đời.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-02",
+          "text": "Nhưng... lỡ như cả đời này, mình chỉ là một đốm sáng nhỏ thì sao?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "intro-03",
+          "text": "Is it okay... to just be ordinary?",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v1-01",
+          "text": "Chạy đua với thế giới, chasing the flashing lights",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-02",
+          "text": "Sợ mình chìm vào bóng tối, fear of the quiet nights",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-03",
+          "text": "Nhìn người ta chạm đỉnh cao, touching the golden sky",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-04",
+          "text": "Còn mình đứng ở chốn nào, watching the time go by...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-05",
+          "text": "Mang trên vai những kỳ vọng, heavy expectations",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-06",
+          "text": "Lạc giữa đám đông ồn ã, searching for salvation.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus-1",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pc1-01",
+          "text": "Nhiều lúc tôi sợ",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-02",
+          "text": "mình sẽ trôi qua đời",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-03",
+          "text": "như một người",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-04",
+          "text": "không có gì để kể.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-05",
+          "text": "Một ngày nhìn lại",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-06",
+          "text": "không có gì quá lớn",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-07",
+          "text": "để khoe.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-08",
+          "text": "Không dấu mốc lớn.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-09",
+          "text": "Không khoảnh khắc wow.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-1",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c1-01",
+          "text": "Lỡ cả đời này không rực rỡ... thì sao?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-02",
+          "text": "would the world come crashing down?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-03",
+          "text": "Chẳng cần vươn tới tận trời cao, just perfectly on the ground.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-04",
+          "text": "Chẳng vĩ đại, chẳng lớn lao..., or being the talk of the town",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-05",
+          "text": "Không cần tên mình lấp lánh, no flashing neon signs.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-06",
+          "text": "Chỉ cần tâm hồn tĩnh lặng, reading between the lines.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-07",
+          "text": "No need for the spotlight.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-08",
+          "text": "Đổi hào quang lấy tự tại, I’ll trade it for peace of mind....",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-09",
+          "text": "it’s completely fine. Yeah... I’m completely fine.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v2-01",
+          "text": "Just a minimalist soul, harvesting the seeds I've sown",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-02",
+          "text": "Let the busy world go by, không màng lộng lẫy",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-03",
+          "text": "Sống một đời làm khán giả, an observer, not a player.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-04",
+          "text": "Stepping out of the game,",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-05",
+          "text": "Gói gọn lại những giấc mơ, keeping everything so plain.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-06",
+          "text": "Tell me, what do I need more?",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus-2",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pc2-01",
+          "text": "Breathe in... nhắm mắt nghe đời chậm lại.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-02",
+          "text": "Let it go... kệ những hơn thua đúng sai.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-03",
+          "text": "Đâu cần là ngọn hải đăng rực sáng đêm thâu...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-04",
+          "text": "Just a little candle, glowing in the shadow.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-05",
+          "text": "Sưởi ấm một góc nhỏ, in a quiet slow mode",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c2-01",
+          "text": "Lỡ cả đời này không rực rỡ... thì sao?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-02",
+          "text": "would the world come crashing down?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-03",
+          "text": "Chẳng cần vươn tới tận trời cao, just perfectly on the ground.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-04",
+          "text": "Chẳng vĩ đại, chẳng lớn lao..., or being the talk of the town",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-05",
+          "text": "Không cần tên mình lấp lánh, no flashing neon signs.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-06",
+          "text": "Chỉ cần tâm hồn tĩnh lặng, reading between the lines.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-07",
+          "text": "No need for the spotlight.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-08",
+          "text": "Đổi hào quang lấy tự tại, I’ll trade it for peace of mind....",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-09",
+          "text": "it’s completely fine. Yeah... I’m completely fine.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "br-01",
+          "text": "Who defines the glory? Ai định nghĩa vinh quang?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-02",
+          "text": "The greatest thing of all... is just being who I am!",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-03",
+          "text": "Chấp nhận mình nhỏ bé, embracing the unseen thread.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-04",
+          "text": "Viết một đoạn kết khác... for the tears we never shed.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br-05",
+          "text": "Embrace the ordinary... Tìm thấy sự phi thường trong những điều giản đơn!",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "spoken-vocals",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "Lỡ cả đời không rực rỡ... thì thôi. I will bloom in my own way...",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-02",
+          "text": "Không rực rỡ... cũng chẳng sao. Vẫn có một bầu trời của riêng mình. Just breathe. Just live.",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "id": "utopia",
+  "title": "Utopia",
+  "subtitle": "Designed, Not Found",
+  "language": [
+    "en",
+    "vi"
+  ],
+  "languageMode": "bilingual",
+  "version": "original",
+  "duration": null,
+  "timingStatus": "untimed",
+  "notes": "Original bilingual lyrics as provided. Timing fields are prepared for later audio synchronization.",
+  "sections": [
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v1-01",
+          "text": "Searching on the radar, near and far",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-02",
+          "text": "Mapless, aimless, looking for a pre-built grace.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-03",
+          "text": "Ta mải miết tìm một tọa độ",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v1-04",
+          "text": "Nhưng địa đàng không phải là một bến đỗ, it’s a space we must define.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v2-01",
+          "text": "Một thế giới không friction, không va chạm, không lỗi",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-02",
+          "text": "Hay chỉ là một phiên bản khác của việc trốn chạy thôi",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-03",
+          "text": "Chasing mirages, legends of a Promised Land.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-04",
+          "text": "Waiting for a miracle to slip into our hands.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-05",
+          "text": "Ta đợi chờ một thế giới, một vùng đất hứa sẵn bày.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-06",
+          "text": "Nhưng nếu mọi thứ đều lộng lẫy, liệu có chất chứa đầy giả tạo & cạm bẫy",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-07",
+          "text": "Chẳng có cuộc sống nào nằm ngoài những vết trầy.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v2-08",
+          "text": "No sanctuary exists outside the effort of the age.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pc-01",
+          "text": "If everything is flawless, do we still grow? If nothing ever breaks, do we even know?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc-02",
+          "text": "Utopia: Designed, Not Found!",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-1",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c1-01",
+          "text": "Utopia — a mosaic of curated shades",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-02",
+          "text": "It’s the world I choose to shape",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-03",
+          "text": "Where every shadow finds its place",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-04",
+          "text": "Between the blueprint and the breath",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-05",
+          "text": "It’s not a location, it’s a deliberate theme.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c1-06",
+          "text": "Not a layout, but a lucid dream.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "post-chorus-1",
+      "type": "post-chorus",
+      "lines": [
+        {
+          "id": "pc1-01",
+          "text": "Utopia — a spectrum within the design",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-02",
+          "text": "A living mind, an high-definition life",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-03",
+          "text": "Là vãng lai hay vững chãi",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc1-04",
+          "text": "It’s something I define",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "verse-3",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "v3-01",
+          "text": "No need for a society with zero defect",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-02",
+          "text": "Chỉ cần tâm trí đủ sâu để reflect",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-03",
+          "text": "Beauty is not about an identical rule set",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-04",
+          "text": "Khác biệt là nuance, không phải là offset",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-05",
+          "text": "Xây utopia nội tại qua những lăng kính",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-06",
+          "text": "Compound và curate học cách vươn mình",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-07",
+          "text": "Chẳng cần remaster cả hành trình",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "v3-08",
+          "text": "Just small systems that compound into the grand version.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "bridge-1",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "br1-01",
+          "text": "Maybe perfect isn’t real. But intention always will",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br1-02",
+          "text": "Every moment that we build. Is a chance to shape the field",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "c2-01",
+          "text": "Utopia — a mosaic of curated shades",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-02",
+          "text": "A sanctuary for the soul to escape",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-03",
+          "text": "Where every shadow finds its place",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-04",
+          "text": "Between the blueprint and the breath",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-05",
+          "text": "It’s not a location, it’s a deliberate theme.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "c2-06",
+          "text": "Not a layout, but a living stream",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "post-chorus-2",
+      "type": "post-chorus",
+      "lines": [
+        {
+          "id": "pc2-01",
+          "text": "Utopia — piece by piece",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-02",
+          "text": "Not a hideout, just a soul release",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-03",
+          "text": "It’s the presence we choose to be.",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "pc2-04",
+          "text": "We don’t find it. We become it.",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "bridge-2",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "br2-01",
+          "text": "Nếu Utopia chỉ là illusion",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br2-02",
+          "text": "Ta lỡ mất những gì in-between?",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "br2-03",
+          "text": "Hay Utopia thực sự là vô biên và unseen?",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "breakdown",
+      "type": "breakdown",
+      "lines": [
+        {
+          "id": "bd-01",
+          "text": "Not perfect... just conscious",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "bd-02",
+          "text": "Not flawless... just honest",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "final-chorus",
+      "type": "final-chorus",
+      "lines": [
+        {
+          "id": "fc-01",
+          "text": "Utopia — here and now",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "fc-02",
+          "text": "Not a when, but a how",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "fc-03",
+          "text": "On an endless road",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "fc-04",
+          "text": "in a soul newly crowned",
+          "start": null,
+          "end": null
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "Utopia — redefined",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-02",
+          "text": "Not beyond, but perfectly aligned",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-03",
+          "text": "Chẳng cần kiếm tìm đâu xa lạ",
+          "start": null,
+          "end": null
+        },
+        {
+          "id": "outro-04",
+          "text": "I’ve been building it, one system at a time.",
+          "start": null,
+          "end": null
+        }
+      ]
+    }
+  ]
+}
