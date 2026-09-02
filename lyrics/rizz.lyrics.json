@@ -1,0 +1,443 @@
+{
+  "id": "rizz",
+  "track": {
+    "title": "RIZZ",
+    "url": null
+  },
+  "version": "1.0",
+  "alignment": {
+    "engine": "lyric-aligner",
+    "status": "unaligned"
+  },
+  "sections": [
+    {
+      "id": "intro-spoken-word",
+      "type": "intro",
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "You walk in. Tự nhiên mọi thứ chìm vào khoảng không.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "intro-02",
+          "text": "That’s rizz",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "intro-03",
+          "text": "not loud, not fast",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "intro-04",
+          "text": "just gravity.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "verse-1-01",
+          "text": "Những gã khác ồn ào, loud and flashy tryna play the game",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-02",
+          "text": "Vội trót lưỡi đầu môi, but they all sound the same",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-03",
+          "text": "Mải miết steal the show, gồng mình trong những vai rỗng tuếch",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-04",
+          "text": "Cố khoác lên vỏ bọc, hoping someone would be impressed",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-05",
+          "text": "Nhưng mị lực lớn nhất... lies in the way you care less",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-06",
+          "text": "Chỉ một ánh nhìn lướt qua, sharper than a loaded gun",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-07",
+          "text": "He’s just my style. không vung vãi cheap lines, no need spotlight",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-08",
+          "text": "Anh cất giấu sự áp đảo... right behind that heavy gaze",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-09",
+          "text": "Just a drop of that rizz... and you set the room ablaze.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pre-chorus-01",
+          "text": "Một lực hút vô hình, pulling me out of nowhere.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "pre-chorus-02",
+          "text": "That kind of energy",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "pre-chorus-03",
+          "text": "you can’t fake",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "pre-chorus-04",
+          "text": "you just glow.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "pre-chorus-05",
+          "text": "Không phô trương, không vội vã, he doesn’t even chase,",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "pre-chorus-06",
+          "text": "Mọi ánh mắt xoay quanh, are locked into his space.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "chorus-1",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "chorus-1-01",
+          "text": "Call it aura, call it rizz, một lực hút không thể chối từ",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-1-02",
+          "text": "You don't even have to try, making all the chaos blur",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-1-03",
+          "text": "Quiet but dangerous, but your presence is pure gold.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-1-04",
+          "text": "You just own the atmosphere, chẳng cần thốt lên nửa câu.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-1-05",
+          "text": "The way you bend the light, làm nhịp đập này bỗng chứa chan.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-1-06",
+          "text": "It’s that inner gravity, cả vương quốc trong một tâm hồn bình thản",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-1-07",
+          "text": "Effortless but fatal, that magnetic kind of soul anh đang mang",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "verse-2-01",
+          "text": "Kẻ hiểu rõ giá trị mình, no need for validation",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-02",
+          "text": "Tâm trí đủ bề vững chãi, no flex and zero stress.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-03",
+          "text": "A subtle kind of dominance, where the real power lies",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-04",
+          "text": "Sự áp đảo vô hình... it’s the mind behind the eyes.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-05",
+          "text": "Không cần prove.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-06",
+          "text": "Chẳng cần hơn.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-07",
+          "text": "Just a heavy, quiet calm... right inside the storm.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "chorus-2",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "chorus-2-01",
+          "text": "Call it aura, call it rizz, một lực hút không thể chối từ",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-2-02",
+          "text": "You don't even have to try, making all the chaos blur",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-2-03",
+          "text": "Quiet but dangerous, but your presence is pure gold.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-2-04",
+          "text": "You just own the atmosphere, chẳng cần thốt lên nửa câu.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-2-05",
+          "text": "The way you bend the light, làm nhịp đập này bỗng chứa chan.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-2-06",
+          "text": "It’s that inner gravity, cả vương quốc trong một tâm hồn bình thản",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-2-07",
+          "text": "Effortless but fatal, that magnetic kind of soul anh đang mang",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "bridge-01",
+          "text": "A high-frequency soul, mà ít ai chạm tới được đâu.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "bridge-02",
+          "text": "No cheap illusions to bind, just need a fiercely quiet mind.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "bridge-03",
+          "text": "I’m perfectly lost in your maze.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "guitar-bass-solo",
+      "type": "instrumental",
+      "lines": []
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "That unspoken rizz.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "outro-02",
+          "text": "Just stay right there.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "outro-03",
+          "text": "Don't say a thing.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "outro-04",
+          "text": "Watch me fall... into your orbit.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    }
+  ]
+}

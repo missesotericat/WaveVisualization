@@ -1,0 +1,390 @@
+{
+  "id": "bouquet-of-emotions",
+  "track": {
+    "title": "Bouquet of Emotions",
+    "url": "https://suno.com/song/c0ee2143-7986-409d-a181-220ff83dc8cf"
+  },
+  "version": "1.0",
+  "alignment": {
+    "engine": "lyric-aligner",
+    "status": "unaligned"
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "lines": [
+        {
+          "id": "intro-01",
+          "text": "Gói ghém... Một chút melancholy, một chút ecstasy.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "intro-02",
+          "text": "Layered emotions in motion, in beauty",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "verse-1",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "verse-1-01",
+          "text": "Niềm vui xen lẫn những khoảng lặng chưa nói",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-02",
+          "text": "Gom từng mẩu mood swing vụn vặt, no noise",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-03",
+          "text": "I don’t try to sort the mess",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-04",
+          "text": "Every high and every stress",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-05",
+          "text": "Chẳng còn những vibrant hues, khi something doesn’t feel true",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-06",
+          "text": "Mùi hương somber, aesthetic subdue",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-07",
+          "text": "Just let them stay somehow",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-1-08",
+          "text": "In this moment, here and now",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "pre-chorus",
+      "type": "pre-chorus",
+      "lines": [
+        {
+          "id": "pre-chorus-01",
+          "text": "Maybe feelings are non-linear",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "pre-chorus-02",
+          "text": "They just need a place to linger",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "chorus-01",
+          "text": "In my bouquet of emotions, chaos gently grows",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-02",
+          "text": "Every scent, every color, tells stories no one knows",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-03",
+          "text": "Not just the glow, not just the bright",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-04",
+          "text": "A bouquet of emotions, soft and wild",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-05",
+          "text": "Euphoria, cinematic, lẫn u hoài",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "chorus-06",
+          "text": "It’s everything inside",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "verse-2",
+      "type": "verse",
+      "lines": [
+        {
+          "id": "verse-2-01",
+          "text": "Wildflowers và những mộng mơ dại khờ",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-02",
+          "text": "Khép lại hững hờ còn hơn tan vỡ",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-03",
+          "text": "Một đóa Forget-me-not, vấn vương kỉ niệm dang dở",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-04",
+          "text": "Rồi những nhành hoa delusion nở rộ trong từng nhịp thở.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-05",
+          "text": "Và khoác lên gai nhọn để che đậy những tổn thương âm thầm",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-06",
+          "text": "Our frequency is flickering, nghe tiếng vỡ trong lặng câm.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-07",
+          "text": "Chút Lavender gợi nhớ miền xa xăm, chút Rosemary hoang hoải miền ký ức",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "verse-2-08",
+          "text": "Overthinking là loài cỏ dại, bám rễ sâu vào tiềm thức.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "bridge",
+      "lines": [
+        {
+          "id": "bridge-01",
+          "text": "Sự cộng hưởng của đủ mọi emotions, entwined",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "bridge-02",
+          "text": "Fragmented... distorted... but still divine",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "bridge-03",
+          "text": "No need to organize",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "bridge-04",
+          "text": "No need to justify",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "bridge-05",
+          "text": "It’s the beauty I define.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "final-chorus",
+      "type": "chorus",
+      "lines": [
+        {
+          "id": "final-chorus-01",
+          "text": "In my bouquet of emotions, I redefine",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-02",
+          "text": "Every scent, every color, perfectly aligned",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-03",
+          "text": "Not just joy, not just the light",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-04",
+          "text": "A bouquet of emotions, soft and wild",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-05",
+          "text": "Every piece I used to fight",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-06",
+          "text": "Now I hold them side by side",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-07",
+          "text": "A bouquet of emotions, this is me",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-08",
+          "text": "All the mess and all the beauty",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        },
+        {
+          "id": "final-chorus-09",
+          "text": "Growing into harmony",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "type": "outro",
+      "lines": [
+        {
+          "id": "outro-01",
+          "text": "Một bó hoa đa sắc... Cho một trái tim đa đoan. Just a bouquet... of me.",
+          "start": null,
+          "end": null,
+          "confidence": null,
+          "words": []
+        }
+      ]
+    }
+  ]
+}
